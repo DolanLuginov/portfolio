@@ -1,2 +1,2 @@
-# Portfolio
-My data science projects
+# Портфолио
+Здесь собраны все мои проекты по Data science
