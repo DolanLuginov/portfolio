@@ -4,6 +4,6 @@
 - Pandas
 - Numpy
 - Matplotlib
-- Seaborn
+- Seabоrn
 - Math
 - Scipy
