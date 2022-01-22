@@ -6,3 +6,5 @@
 - Matplotlib
 - Seaborn
 - Scipy
+- Math
+- Re
