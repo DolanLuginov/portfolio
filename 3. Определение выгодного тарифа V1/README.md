@@ -5,3 +5,5 @@
 - Numpy
 - Matplotlib
 - Seaborn
+- Math
+- Scipy
