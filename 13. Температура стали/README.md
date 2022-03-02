@@ -6,3 +6,5 @@
 - Matplotlib
 - Seaborn
 - Sklearn
+- Catboost
+- LightGBM
